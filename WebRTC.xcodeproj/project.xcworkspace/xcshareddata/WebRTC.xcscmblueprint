@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "01D6447B25A925A4C00AB4E5B2B5B94E6EF00A1E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "01D6447B25A925A4C00AB4E5B2B5B94E6EF00A1E" : 9223372036854775807,
+    "5A4B419311AF9297581C746A07205B4BDAAA7C97" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "46DACE4B-E81C-4C19-9A81-A6F7413A5550",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "01D6447B25A925A4C00AB4E5B2B5B94E6EF00A1E" : "WebRTCFramework\/",
+    "5A4B419311AF9297581C746A07205B4BDAAA7C97" : "WebRTCFramework\/webrtc_root\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WebRTC",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WebRTC.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/Christian.Jacquemot@git.twinlife-systems.com:29418\/device\/ios\/twinlife\/WebRTCFramework",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "01D6447B25A925A4C00AB4E5B2B5B94E6EF00A1E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/Christian.Jacquemot@git.twinlife-systems.com:29418\/device\/ios\/webrtc\/webrtc_root",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5A4B419311AF9297581C746A07205B4BDAAA7C97"
+    }
+  ]
+}

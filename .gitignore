@@ -1,0 +1,6 @@
+build
+tools
+.DS_Store
+doc/html
+WebRTC.xcodeproj/project.xcworkspace/xcuserdata
+WebRTC.xcodeproj/xcuserdata
